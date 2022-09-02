@@ -1,0 +1,22 @@
+.card_login {
+      background-image: url(https://ok.ru/res/s/illustrations/anon21/background-big.svg);
+      width: 100%;
+      height: 88vh;
+      background-size: cover;
+
+}
+.card_login .card{
+      width: 50%;
+}
+
+.card-brand i {
+      font-size: 1.5rem;
+      margin: 10px;
+}
+
+@media only screen and (max-width : 576px) {
+      .card_login .card{
+            width: 100%;
+      }
+      
+}

@@ -1,0 +1,14 @@
+.home{
+      background: #EBECEF;
+      color: black;
+      height: 81.3vh;
+  }
+  
+  @media (min-width: 576px) {
+    .home{
+        background: #EBECEF;
+        color: black;
+        height: auto;
+    }
+  }
+  
